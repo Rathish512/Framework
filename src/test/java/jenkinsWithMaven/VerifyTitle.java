@@ -12,6 +12,7 @@ public class VerifyTitle {
 		System.setProperty("webdriver.chrome.driver", "F:\\Softwares\\Selenium\\Selenium Drivers\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.facebook.com");
+		System.out.println("Launched facebook successfully");
 		System.out.println("Title is:"+driver.getTitle());
 		driver.close();
 	}
