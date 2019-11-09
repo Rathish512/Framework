@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="25004" started-at="2019-08-25T14:51:33Z" finished-at="2019-08-25T14:51:58Z">
+  <suite name="Default suite" duration-ms="90625" started-at="2019-11-09T16:06:05Z" finished-at="2019-11-09T16:07:35Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="25004" started-at="2019-08-25T14:51:33Z" finished-at="2019-08-25T14:51:58Z">
+    <test name="Default test" duration-ms="90625" started-at="2019-11-09T16:06:05Z" finished-at="2019-11-09T16:07:35Z">
       <class name="jenkinsWithMaven.VerifyTitle">
-        <test-method status="PASS" signature="verifyvalidlogin()[pri:0, instance:jenkinsWithMaven.VerifyTitle@523884b2]" name="verifyvalidlogin" duration-ms="24892" started-at="2019-08-25T20:21:33Z" finished-at="2019-08-25T20:21:58Z">
+        <test-method status="PASS" signature="verifyvalidlogin()[pri:0, instance:jenkinsWithMaven.VerifyTitle@523884b2]" name="verifyvalidlogin" duration-ms="90552" started-at="2019-11-09T21:36:05Z" finished-at="2019-11-09T21:37:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyvalidlogin -->
       </class> <!-- jenkinsWithMaven.VerifyTitle -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

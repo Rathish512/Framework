@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="extentReports.Reports">
+      <class name="jenkinsWithMaven.VerifyTitle">
         <methods>
-          <include name="verifyHome"/>
+          <include name="verifyvalidlogin"/>
         </methods>
-      </class> <!-- extentReports.Reports -->
+      </class> <!-- jenkinsWithMaven.VerifyTitle -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
