@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 public class VerifyTitle {
 
 	@Test
-	public void verifyvalidlogin()
+	public void verifyValidlogin()
 	{
 		System.setProperty("webdriver.chrome.driver", "F:\\Softwares\\Selenium\\Selenium Drivers\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
